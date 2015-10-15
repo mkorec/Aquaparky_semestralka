@@ -1,3 +1,7 @@
 TODO:
 1. masaze, objednanie, maseri - HOTOVO
 2. trzba aquaparku za dane obdobie - HOTOVO
+
+3. vyuzivanie procedur - treba èas OD - DO? nestaci len evidencia masazi?
+4. maximalna rychlost toboganu - staci pre konkretny den uchovat maximum v tom dni? alebo priebeh maxim v danom dni
+5. vypis atrakcii vyuzitych na menej ako 50% - v danom dni alebo za cele obdobie?
